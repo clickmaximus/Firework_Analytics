@@ -147,7 +147,7 @@ ___WEB_PERMISSIONS___
               },
               {
                 "type": 1,
-                "string": "https://clickmaximus.com/Firework/customfw.js"
+                "string": "https://clickmaximus.com/customfw.js"
               },
               {
                 "type": 1,
