@@ -1,0 +1,5 @@
+homepage: "https://www.firework.com"
+documentation: "https://docs.firework.tv"
+versions:
+  - sha: cc1827d5209f017733acffecbe6eeed52e5f589f
+    changeNotes: Initial release.
